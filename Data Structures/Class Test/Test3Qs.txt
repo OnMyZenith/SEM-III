@@ -1,0 +1,9 @@
+Test-03 DS Al A2 Nov 20, 2021 
+Q1. Given a Queue Q, write a method that will find the max element in the queue. You may only use queue operations such as 
+eneque(Q,x): inserts new element x in queue Q dequeue(Q): deletes and returns first element of queue Q. size(Q): returns number of elements in queue Q; 
+No other data structure can be used other than queues. Queue must remain intact after finding the max. Do not write codes for enqueue, dequeue, size functions. Only write code/algorithm maxElement(Q) which returns max element of queue Q. 
+Q2. Write a recursive C function/algorithm mirrorTree( ) that changes a given input tree so that it becomes the mirror image of the original tree. For example: 
+
+Q3. Traverse the following graph (starting from vertex 1 ) using both Breadth first and Depth first search algorithms and show BFS and DFS Tree, discovery and finish time for DFS. 
+
+Q4. Given an undirected graph, write an algorithm to test if given graph is a tree or not (trees do not have cycles). Use BFS or DFS to determine this. 
